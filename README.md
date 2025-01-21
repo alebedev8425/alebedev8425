@@ -1,7 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Alex! <br/><a href="https://github.com/alebedev8425">Programmer</a>, <a href="https://www.linkedin.com/in/alexander-lebedev-aa7a4b28a/">Work Experience</a></h1>
+
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Algorithms Design Projects (Programmed in C)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
+
+<h2>📺 Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/alexander-lebedev-aa7a4b28a/
 
 <!--
-**alebedev8425/alebedev8425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
