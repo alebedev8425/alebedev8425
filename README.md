@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Algorithms Design Projects (Programmed in C)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Insertion Sort Implemntation](https://github.com/alebedev8425/InsertionSortImplementation)
   
 
 <h2>📺 Videos</h2>
