@@ -7,6 +7,7 @@
 - <b>Software Engineering Projects</b>
   - [Full iFinance System Implementation - .NET Web Application](https://github.com/alebedev8425/iFINANCEAPP)
 - <b>Java Projects</b>
+  - [Adopt a Pet App System with GUI (MVC)](https://github.com/alebedev8425/Adopt-Pet-App-System) 
   - [Maze Game made through Test-driven development](https://github.com/alebedev8425/Maze-Game-made-with-Test-Driven-Dev) 
   - [Music Player with Design Patterns](https://github.com/alebedev8425/Music-Player-with-Design-Patterns) 
   - [Video Game with Design Pattern](https://github.com/alebedev8425/MiddleEarth-Video-Game) 
