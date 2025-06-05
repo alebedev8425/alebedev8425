@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Algorithms Design Projects (Programmed in C)</b>
-  - [Insertion Sort Implemntation](https://github.com/alebedev8425/InsertionSortImplementation)
+  - [Insertion Sort Implementation](https://github.com/alebedev8425/InsertionSortImplementation)
 - <b>Software Engineering Projects</b>
   - [Full iFinance System Implementation - .NET Web Application](https://github.com/alebedev8425/iFINANCEAPP)
   
