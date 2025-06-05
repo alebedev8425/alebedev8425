@@ -4,7 +4,7 @@
 
 - <b>Algorithms Design Projects (Programmed in C)</b>
   - [Insertion Sort Implemntation](https://github.com/alebedev8425/InsertionSortImplementation)
-  - - <b>Software Engineering Projects</b>
+- <b>Software Engineering Projects</b>
   - [Full iFinance System Implementation - .NET Web Application](https://github.com/alebedev8425/iFINANCEAPP)
   
 
