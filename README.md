@@ -3,9 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 - <b>AI Projects</b>
   - [AI Investor System](https://github.com/alebedev8425/AI_Investor_System)
-    - Research Grade System meant for drawing concrete conclusions about using various AI techniques with various allocation techniques
   - [ARC AGI Project](https://github.com/alebedev8425/arcagi-aws)
-    - System using AWS ECR, Bedrock, Sagemaker to compete in ARC AGI Competition
 - <b>Algorithms Design Projects (Programmed in C)</b>
   - [Insertion Sort Implementation](https://github.com/alebedev8425/InsertionSortImplementation)
 - <b>Software Engineering Projects</b>
