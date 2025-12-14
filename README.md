@@ -5,10 +5,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/alexander-lebedev-aa7a4b28a/" target="_blank">
-    <img height="36" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="34" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/alebedev8425" target="_blank">
-    <img height="36" alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img height="34" alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -24,10 +24,16 @@
 
 <div align="center">
   <a href="https://github.com/alebedev8425/AI_Investor_System">
-    <img alt="AI Investor System" src="https://github-readme-stats.vercel.app/api/pin/?username=alebedev8425&repo=AI_Investor_System" />
+    <img
+      alt="AI Investor System"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=alebedev8425&repo=AI_Investor_System&border_radius=12&v=2"
+    />
   </a>
   <a href="https://github.com/alebedev8425/arcagi-aws">
-    <img alt="ARC AGI Project" src="https://github-readme-stats.vercel.app/api/pin/?username=alebedev8425&repo=arcagi-aws" />
+    <img
+      alt="ARC AGI Project"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=alebedev8425&repo=arcagi-aws&border_radius=12&v=2"
+    />
   </a>
 </div>
 
@@ -37,7 +43,7 @@ Research-grade system meant for drawing concrete conclusions about using various
 
 ### ☁️ ARC AGI on AWS
 **[ARC AGI Project](https://github.com/alebedev8425/arcagi-aws)**  
-System using AWS ECR, Bedrock, Sagemaker to compete in ARC AGI Competition.
+System using AWS ECR, Bedrock, and SageMaker to compete in the ARC AGI Competition.
 
 ---
 
