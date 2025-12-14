@@ -1,16 +1,49 @@
-# Hi, I'm Alex! 👋  
-[Programmer](https://github.com/alebedev8425) · [Work Experience](https://www.linkedin.com/in/alexander-lebedev-aa7a4b28a/)
+<div align="center">
 
-## 👨‍💻 Projects
+# Hi, I'm Alex 👋
+**Computer Science @ Mizzou · AI/ML + Software Engineering · Builder · Research Fellow**
 
-### AI Projects
-- **[AI Investor System](https://github.com/alebedev8425/AI_Investor_System)**  
-  - Research Grade System meant for drawing concrete conclusions about using various AI techniques with various allocation techniques.
+<p>
+  <a href="https://www.linkedin.com/in/alexander-lebedev-aa7a4b28a/" target="_blank">
+    <img height="36" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/alebedev8425" target="_blank">
+    <img height="36" alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- **[ARC AGI Project](https://github.com/alebedev8425/arcagi-aws)**  
-  - System using AWS ECR, Bedrock, Sagemaker to compete in ARC AGI Competition.
+<a href="#-featured-projects">Featured</a> •
+<a href="#-other-projects">Projects</a> •
+<a href="#-connect">Connect</a>
 
-### Algorithms Design Projects (Programmed in C)
+</div>
+
+---
+
+## ⚡ Featured Projects
+
+<div align="center">
+  <a href="https://github.com/alebedev8425/AI_Investor_System">
+    <img alt="AI Investor System" src="https://github-readme-stats.vercel.app/api/pin/?username=alebedev8425&repo=AI_Investor_System" />
+  </a>
+  <a href="https://github.com/alebedev8425/arcagi-aws">
+    <img alt="ARC AGI Project" src="https://github-readme-stats.vercel.app/api/pin/?username=alebedev8425&repo=arcagi-aws" />
+  </a>
+</div>
+
+### 🧠 AI Investor System
+**[AI Investor System](https://github.com/alebedev8425/AI_Investor_System)**  
+Research-grade system meant for drawing concrete conclusions about using various AI techniques with various allocation techniques.
+
+### ☁️ ARC AGI on AWS
+**[ARC AGI Project](https://github.com/alebedev8425/arcagi-aws)**  
+System using AWS ECR, Bedrock, Sagemaker to compete in ARC AGI Competition.
+
+---
+
+## 🧭 Other Projects
+
+### Algorithms Design Projects (C)
 - [Insertion Sort Implementation](https://github.com/alebedev8425/InsertionSortImplementation)
 
 ### Software Engineering Projects
@@ -26,6 +59,8 @@
 ### Testing
 - [TestNG Testing Tool Demo](https://github.com/alebedev8425/TestNGDemo)
 
-## 🤳 Connect with me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Lebedev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lebedev-aa7a4b28a/)
+## 🤝 Connect
+- LinkedIn: [Alexander Lebedev](https://www.linkedin.com/in/alexander-lebedev-aa7a4b28a/)
+- GitHub: [alebedev8425](https://github.com/alebedev8425)
