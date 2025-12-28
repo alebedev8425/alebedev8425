@@ -49,6 +49,9 @@ System using AWS ECR, Bedrock, and SageMaker to compete in the ARC AGI Competiti
 
 ## 🧭 Other Projects
 
+### CS50 AI Projects
+- [Minimax, Markov, RL, ML, etc.](https://github.com/alebedev8425/AI-with-Python-CS50-Projects)
+
 ### Algorithms Design Projects (C)
 - [Insertion Sort Implementation](https://github.com/alebedev8425/InsertionSortImplementation)
 
