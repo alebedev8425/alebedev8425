@@ -23,27 +23,26 @@
 ## ⚡ Featured Projects
 
 <div align="center">
-  <a href="https://github.com/alebedev8425/AI_Investor_System">
-    <img
-      alt="AI Investor System"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=alebedev8425&repo=AI_Investor_System&border_radius=12&v=2"
-    />
-  </a>
-  <a href="https://github.com/alebedev8425/arcagi-aws">
-    <img
-      alt="ARC AGI Project"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=alebedev8425&repo=arcagi-aws&border_radius=12&v=2"
-    />
-  </a>
+
+### 🚀 AI Investor System  
+**ML-driven research + portfolio optimization platform**  
+`Python` · `PyTorch` · `Data Preprocessing` · `Deep Learning` · `RL`
+
+<a href="https://github.com/alebedev8425/AI_Investor_System">
+  <img alt="View Repo" src="https://img.shields.io/badge/View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 🧩 ARC AGI on AWS  
+**ARC/AGI experimentation + reproducible infrastructure on AWS**  
+`AWS` · `Docker` · `Bedrock/Sagemaker` · `ECR`
+
+<a href="https://github.com/alebedev8425/arcagi-aws">
+  <img alt="View Repo" src="https://img.shields.io/badge/View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
-
-### 🧠 AI Investor System
-**[AI Investor System](https://github.com/alebedev8425/AI_Investor_System)**  
-Research-grade system meant for drawing concrete conclusions about using various AI techniques with various allocation techniques.
-
-### ☁️ ARC AGI on AWS
-**[ARC AGI Project](https://github.com/alebedev8425/arcagi-aws)**  
-System using AWS ECR, Bedrock, and SageMaker to compete in the ARC AGI Competition.
 
 ---
 
